@@ -99,3 +99,13 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 - **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [YouTube Channel](https://youtube.com/florinpop) - [website](https://florin-pop.com).
 - **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock) - [articles](https://medium.com/@jdmedlock)
+
+## 👩 Author
+
+| [<img src="https://avatars.githubusercontent.com/u/20709086?v=4" width="100px;" alt="Lais Frigério"/><br /><sub><b>@laisfrigerio</b></sub>](https://github.com/laisfrigerio)<br /> |
+| :---: |
+
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
