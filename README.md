@@ -9,9 +9,9 @@ A Collection of application ideas which can be used to improve your coding skill
 
 ## Motivation
 
-This project is inspired by [@florinpop17](https://github.com/florinpop17/app-ideas) app-ideas repository that are no longer maintened.
+This project is inspired by [@florinpop17](https://github.com/florinpop17/app-ideas) app-ideas repository that are no longer maintained.
 
-So, I decided to create a new one to contineu this such important project for the open source community.
+So, I decided to create a new one to continue this such important project for the open source community.
 
 ## Intro
 
