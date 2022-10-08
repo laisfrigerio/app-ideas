@@ -86,7 +86,7 @@ required to complete them.
 | Name                                                                              | Short Description                                  | Tier           |
 | --------------------------------------------------------------------------------- | -------------------------------------------------- | -------------- |
 | [Bit Masks](./Projects/2-Intermediate/Bit-Masks-App.md)                           | Using Bit Masks for Conditions                     | 2-Intermediate |
-| [Html Extractor](./Projects/2-Intermediate/Html-Extractor-App.md)                           | Using Bit Webscraper for HTML tag extraction                    | 2-Intermediate |
+| [Html Extractor](./Projects/2-Intermediate/Html-Extractor-App.md)                           |Webscraper for HTML tag extraction                    | 2-Intermediate |
 | [Book Finder App](./Projects/2-Intermediate/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediate |
 | [Calculator CLI](./Projects/2-Intermediate/Calculator-CLI.md)                     | Create a basic calculator cli.                     | 2-Intermediate |
 | [Card Memory Game](./Projects/2-Intermediate/Card-Memory-Game.md)                 | Memorize and match hidden images                   | 2-Intermediate |
