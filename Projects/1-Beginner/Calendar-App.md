@@ -1,6 +1,6 @@
 # My calendar
 
-**Tier:** 3-Advanced
+**Tier:** 1-Beginner
 
 Build a calendar application to organize you daily life. Add functionality to add events and reminder.
 Style your own calendar according to your requirement
@@ -19,7 +19,7 @@ Style your own calendar according to your requirement
 
 - [ ] User can drag events between dates
 - [ ] User can set reminder for a event
-- [ ] Change theme (light/dark) (play with css), play with css 😄
+- [ ] Change theme (light/dark), play with css 😄
 - [ ] Store data locally so that events does not get deleted when server is restarted
 
 ## Useful links and resources
