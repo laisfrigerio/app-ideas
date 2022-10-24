@@ -1,6 +1,6 @@
 # Voting App
 
-**Catetoria:** 2-Intermediário
+**Categoria:** 2-Intermediário
 
 Permite que o usuário vote em um item a partir de uma lista de opções. 
 
@@ -17,7 +17,7 @@ Permite que o usuário vote em um item a partir de uma lista de opções.
 
 ## Fontes e links úteis
 
-- [Firebase](https://firebase.google.com) bando de dados em tempo real
+- [Firebase](https://firebase.google.com) banco de dados em tempo real
 
 ## Examplos
 
