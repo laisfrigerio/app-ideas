@@ -19,6 +19,6 @@ Permite que o usuário vote em um item a partir de uma lista de opções.
 
 - [Firebase](https://firebase.google.com) banco de dados em tempo real
 
-## Examplos
+## Exemplos
 
 - [App de votação de Florin Pop no Codepen](https://codepen.io/FlorinPop17/full/NWKQWmq)
